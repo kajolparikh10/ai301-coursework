@@ -125,9 +125,9 @@ This is also the basis for the claim comment you write in Unit 2.
 
 **Selection rationale**
 
-1. It's a small Python test fix: the fixture has about 51 words, but the test checks for more than 100. I can verify it with pytest, Python is stronger, and it's small enough to fit my schedule.
-2. The tool correctly found that the repo is active and that nobody has an open PR or assignment on #63. It also correctly rejected my first three picks because classmates already had PRs on them. What it couldn't weigh was my preference: #66 also passed, but I'd rather not dig into how structlog works on my first issue.
-3. Other students have commented on #63 too, so someone could open a PR before me. Maintainers haven't been very active, so review might be slow, and my first PR may need a maintainer to approve CI.
+1. It's a small Python test fix. The fixture has about 51 words, but the test checks for more than 100. I can verify it with pytest, Python is stronger, and it's small enough to fit my schedule.
+2. The tool correctly found that the repo is active and that nobody has an open PR or assignment on #63. It also correctly rejected my first three picks because classmates already had PRs on them. What it couldn't weigh was my preference. #66 also passed, but I'd rather not dig into how structlog works on my first issue.
+3. Other students have commented on #63 too, so someone could open a PR before me. Maintainers have been less active, so the review may be slow, and my first PR may need a maintainer to approve CI.
 
 ---
 
