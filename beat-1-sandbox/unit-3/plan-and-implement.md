@@ -19,7 +19,7 @@ kajolparikh10
 
 **Plan comment**
 
-PASTE YOUR PLAN COMMENT LINK HERE
+https://github.com/codepath/pathreview-ai301-fa26-s3/issues/63#issuecomment-6718392086
 
 Plan for #63, following my reproduction above (macOS 15.6.1, Python 3.12.7, commit 2f4e82f), where the test failed at `assert 51 > 100` with the scorer logging `category=minimal word_count=51`.
 
